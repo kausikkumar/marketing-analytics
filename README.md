@@ -1,2 +1,2 @@
 # marketing-analytics
-All the data sets fot the course are uploaded here.
+All the data sets for the course are uploaded here.
